@@ -501,8 +501,7 @@ export default function Portfolio() {
                     <h3 className="text-2xl font-bold text-white">Bachelor of Science in Information Technology</h3>
                     <p className="text-cyan-400 text-lg mt-2 font-medium">Cebu Institute of Technology - University</p>
                     <p className="text-neutral-500 mt-4 max-w-2xl leading-relaxed">
-                      Focused on software engineering principles for frontend and backend development, as well as system architecture. Possesses fundamental experience with ServiceNow, blockchain, Quality Assurance, and AWS.
-                    </p>
+                      Specializing in software engineering principles across frontend and backend development, with a strong foundation in system architecture. Gained practical expertise in ServiceNow, blockchain technology, Quality Assurance, and AWS cloud infrastructure.                    </p>
                   </div>
                   <div className="text-right shrink-0">
                     <div className="text-3xl font-bold text-white">2022-26</div>
